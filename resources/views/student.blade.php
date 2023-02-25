@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    <table cla>
+    <table>
         <tr>
             <td>Name</td>
             <td>English</td>
